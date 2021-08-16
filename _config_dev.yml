@@ -1,0 +1,15 @@
+# Site Settings
+title: Huan Phan Van
+email: huphan@siue.edu
+description: >
+  Huan 1st Site!
+baseurl: ""
+url: "http://localhost:4000"
+facebook_username: huantianh
+github_username: huantianh
+# Build Settings
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM
