@@ -13,7 +13,7 @@ A guide to getting started with Jekyll.
 
 ## Author
 
-- [Tania Rascia](https://www.taniarascia.com)
+- Huan Phan-Van
 
 ## License
 
